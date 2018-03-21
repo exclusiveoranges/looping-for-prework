@@ -1,8 +1,8 @@
 
 def using_for
-	Checklist = 1..10
+	checklist = 1..10
 
-	for Harry in Checklist
+	for harry in checklist
 		puts "Wingardium Leviosa"
 	end
 end
